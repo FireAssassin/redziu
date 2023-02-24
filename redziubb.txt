@@ -1,0 +1,1043 @@
+profile: [
+    kills 35344
+    deaths 24235
+    kdr 1.42
+    wins 1687
+    losses 1961
+    matches 3648
+    prestige 5
+    level 60
+    vip: false
+    alpha: false
+    top_weapon: m4a1 
+]
+
+credits: 254
+
+gamepasses: [
+    starter_pass: false
+    custom_crosshair: true
+    universal_pack1: false
+    mythical_daggers: false
+    wild_west_weapons_pass_part_1: false
+    ww2_weapons_pass_part_1: false
+    prototype_weapons_pass_part_1: false
+    medieval_weapons_pass: false
+]
+
+
+
+legendaries: [
+    crystal: [
+        insta-heal: false
+    ]
+
+    electric: [
+        p90: false
+    ]
+
+    classics: [
+        dragonuv: false
+        ak-47: false
+        m4a1: true
+    ]
+
+    alpha: [
+        m16: true
+        deagle: false
+        m1911: true
+        sks: false
+        spas-12: false
+        tommy_gun: false
+        ump-45: false
+        kriss_vector: false
+    ]
+
+    tactical: [
+        m1911: true
+    ]
+
+    cyber: [
+        44_magnum: false
+    ]
+
+    gilded: [
+        ak-47: true
+        m1_garand: false
+    ]
+
+    annihilator: [
+        pancor_jackhammer: false
+    ]
+
+    luxe: [
+        greatsword: false
+        kriss_vector: true
+    ]
+
+    draconic: [
+        xk-416: false
+    ]
+
+    frozen: [
+        icicle_launcher: false
+    ]
+
+]
+
+weapons: [
+    primary: [
+        assault_rifles: [
+            ak-47: [
+                has: true
+                kills: 1945
+                level: 60
+                xp: 0 
+            ]
+            an-94: [
+                has: true
+                kills: 348
+                level: 31
+                xp: 338
+            ]
+            arx160: [
+                has: true
+                kills: 30
+                level: 4
+                xp: 51
+            ]
+            as_val: [
+                has: true
+                kills: 608
+                level: 41
+                xp: 658
+            ]
+            aug_a2: [
+                has: true
+                kills: 1395
+                level: 60
+                xp: 0
+            ]
+            fal: [
+                has: true
+                kills: 129
+                level: 10
+                xp: 13
+            ]
+            famas: [
+                has: true
+                kills: 53
+                level: 5
+                xp: 59
+            ]
+            g11: [
+                has: true
+                kills: 223
+                level: 23
+                xp: 264
+            ]
+            g3: [
+                has: true
+                kills: 532
+                level: 36
+                xp: 560
+            ]
+            g36c: [
+                has: true
+                kills: 503
+                level: 26
+                xp: 161
+            ]
+            galil: [
+                has: true
+                kills: 858
+                level: 38
+                xp: 430
+            ]
+            groza: [
+                has: true
+                kills: 304
+                level: 30
+                xp: 260
+            ]
+            honey_badger: [
+                has: true
+                kills: 2094
+                level: 60
+                xp: 0
+            ]
+            m16: [
+                has: true
+                kills: 1386
+                level: 52
+                xp: 554
+            ]
+            m4a1: [
+                has: true
+                kills: 4647
+                level: 60
+                xp: 0
+            ]
+            mutant: [
+                has: true
+                kills: 266
+                level: 25
+                xp: 436
+            ]
+            scar-h: [
+                has: true
+                kills: 234
+                level: 21
+                xp: 269
+            ]
+            tar-21: [
+                has: true
+                kills: 167
+                level: 19
+                xp: 176
+            ]
+            xk-416: [
+                has: true
+                kills: 180
+                level: 20
+                xp: 301
+            ]
+            stg_44: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+        ]
+        submachine_guns: [
+            fmg-9: [
+                has: true
+                kills: 156
+                level: 3
+                xp: 112
+            ]
+            kriss_vector: [
+                has: true
+                kills: 348
+                level: 31
+                xp: 483
+            ]
+            mp5: [
+                has: true
+                kills: 454
+                level: 35
+                xp: 560
+            ]
+            mp7: [
+                has: true
+                kills: 245
+                level: 25
+                xp: 433
+            ]
+            p90: [
+                has: true
+                kills: 419
+                level: 24
+                xp: 25
+            ]
+            pp-19: [
+                has: true
+                kills: 420
+                level: 33
+                xp: 241
+            ]
+            pp2k: [
+                has: true
+                kills: 2
+                level: 0
+                xp: 84
+            ]
+            sbr-9: [
+                has: true
+                kills: 60
+                level: 8
+                xp: 176
+            ]
+            scorpion_evo: [
+                has: true
+                kills: 221
+                level: 25
+                xp: 167
+            ]
+            sten_gun: [
+                has: true
+                kills: 279
+                level: 28
+                xp: 421
+            ]
+            ump-45: [
+                has: true
+                kills: 297
+                level: 23
+                xp: 201
+            ]
+            uzi: [
+                has: true
+                kills: 39
+                level: 5
+                xp: 104
+            ]
+            tommy_gun: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+            sm-03: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+        ]
+        light_machine_guns: [
+            ares_shrike: [
+                has: true
+                kills: 320
+                level: 28
+                xp: 47
+            ]
+            l85: [
+                has: true
+                kills: 77
+                level: 9
+                xp: 130
+            ]
+            m231: [
+                has: true
+                kills: 451
+                level: 35
+                xp: 349
+            ]
+            m249: [
+                has: true
+                kills: 1541
+                level: 37
+                xp: 424
+            ]
+            mg_42: [
+                has: true
+                kills: 301
+                level: 29
+                xp: 20
+            ]
+            mgx: [
+                has: true
+                kills: 163
+                level: 19
+                xp: 294
+            ]
+            scar_hamr: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+        ]
+        rifles: [
+            kel-tec_rfb: [
+                has: true
+                kills: 65
+                level: 8
+                xp: 30
+            ]
+            m1_garand: [
+                has: true
+                kills: 1130
+                level: 52
+                xp: 1055
+            ]
+            mk_14: [
+                has: true
+                kills: 87
+                level: 8
+                xp: 2
+            ]
+            sks: [
+                has: true
+                kills: 424
+                level: 32
+                xp: 331
+            ]
+            rolling_block_rifle: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+        ]
+        sniper_rifles: [
+            asr-50: [
+                has: true
+                kills: 577
+                level: 37
+                xp: 629
+            ]
+            awp: [
+                has: true
+                kills: 418
+                level: 29
+                xp: 11
+            ]
+            dragonuv: [
+                has: true
+                kills: 160
+                level: 10
+                xp: 67
+            ]
+            dsr-50: [
+                has: true
+                kills: 428
+                level: 21
+                xp: 49
+            ]
+            model_1873: [
+                has: true
+                kills: 52
+                level: 6
+                xp: 81
+            ]
+            model_700: [
+                has: true
+                kills: 75
+                level: 8
+                xp: 146
+            ]
+            mosin_nagant: [
+                has: true
+                kills: 56
+                level: 6
+                xp: 193
+            ]
+            sako_trg: [
+                has: true
+                kills: 21
+                level: 2
+                xp: 133
+            ]
+            sv-98: [
+                has: true
+                kills: 305
+                level: 26
+                xp: 71
+            ]
+            sl7_match: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+        ]
+        shotguns: [
+            honcho: [
+                has: true
+                kills: 107
+                level: 12
+                xp: 146
+            ]
+            ithaca_db: [
+                has: true
+                kills: 52
+                level: 6
+                xp: 177
+            ]
+            remington_870: [
+                has: true
+                kills: 70
+                level: 6
+                xp: 203
+            ]
+            saiga-12: [
+                has: true
+                kills: 110
+                level: 10
+                xp: 35
+            ]
+            spas-12: [
+                has: true
+                kills: 18
+                level: 2
+                xp: 91
+            ]
+            pancor_jackhammer: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+            model_1887: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+        ]
+        special: [
+            gunpad: [
+                has: true
+                kills: 133
+                level: 14
+                xp: 173
+            ]
+            hallowed_blaster: [
+                has: true
+                kills: 37
+                level: 5
+                xp: 4
+            ]
+            raygun: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+            snowball_launcher: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+            spellbook: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+            icicle_launcher: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+            bow: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+            crossbow: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+        ]
+    ]
+    secondary: [
+        pistols: [
+            g17: [
+                has: true
+                kills: 43
+                level: 5
+                xp: 72
+            ]
+            m1911: [
+                has: true
+                kills: 1536
+                level: 60
+                xp: 0
+            ]
+            makarov: [
+                has: true
+                kills: 132
+                level: 16
+                xp: 70
+            ]
+            phantom: [
+                has: true
+                kills: 211
+                level: 22
+                xp: 278
+            ]
+            silenced_ppk: [
+                has: true
+                kills: 120
+                level: 11
+                xp: 76
+            ]
+            tec-9: [
+                has: true
+                kills: 70
+                level: 3
+                xp: 126
+            ]
+            luger: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+        ]
+        machine_pistols: [
+            b92: [
+                has: true
+                kills: 400
+                level: 33
+                xp: 429
+            ]
+            g18: [
+                has: true
+                kills: 509
+                level: 23
+                xp: 395
+            ]
+            mac-10: [
+                has: true
+                kills: 526
+                level: 37
+                xp: 113
+            ]
+            p1y: [
+                has: true
+                kills: 15
+                level: 2
+                xp: 9
+            ]
+            skorpion: [
+                has: true
+                kills: 99
+                level: 12
+                xp: 62
+            ]
+        ]
+        shotguns: [
+            taurus_judge: [
+                has: true
+                kills: 87
+                level: 9
+                xp: 220
+            ]
+        ]
+        hand_cannons: [
+            44_magnum: [
+                has: true
+                kills: 475
+                level: 32
+                xp: 470
+            ]
+            deagle: [
+                has: true
+                kills: 79
+                level: 9
+                xp: 86
+            ]
+            gyrojet_mark_i: [
+                has: true
+                kills: 82
+                level: 9
+                xp: 190
+            ]
+            navy_revolver: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+        ]
+        melee: [
+            greatsword: [
+                has: true
+                kills: 438
+                level: 30
+                xp: 150
+            ]
+            katana: [
+                has: true
+                kills: 267
+                level: 23
+                xp: 282
+            ]
+            riot_shield: [
+                has: true
+                kills: 14
+                level: 1
+                xp: 164
+            ]
+            viking_axe: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+            flail: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+            poleaxe: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+        ]
+    ]
+    melee: [
+        knives: [
+            brass_knuckles: [
+                has: true
+                kills: 30
+                level: 3
+                xp: 125
+            ]
+            butterfly_knife: [
+                has: true
+                kills: 226
+                level: 20
+                xp: 189
+            ]
+            firework: [
+                has: true
+                kills: 7
+                level: 0
+                xp: 162
+            ]
+            hammer: [
+                has: true
+                kills: 10
+                level: 1
+                xp: 52
+            ]
+            ice_dagger: [
+                has: true
+                kills: 108
+                level: 11
+                xp: 171
+            ]
+            ka-bar: [
+                has: true
+                kills: 56
+                level: 4
+                xp: 25
+            ]
+            karambit: [
+                has: true
+                kills: 1
+                level: 0
+                xp: 30
+            ]
+            stick: [
+                has: true
+                kills: 5
+                level: 0
+                xp: 110
+            ]
+            tanto: [
+                has: true
+                kills: 14
+                level: 1
+                xp: 148
+            ]
+            ornate_tanto: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+            plaque_and_famine: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+            crystal_knuckles: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+            rosethorn: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+            love_punch: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+            firebrand: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+            illumina: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+            darkheart: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+            venomshank: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+            hunting_knife: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+        ]
+    ]
+    equipment: [
+        grenades: [
+            dynamite: [
+                has: true
+                kills: 122
+                level: 15
+                xp: 61
+            ]
+            flashbang: [
+                has: true
+                kills: 2
+                level: 0
+                xp: 129
+            ]
+            frag: [
+                has: true
+                kills: 738
+                level: 22
+                xp: 75
+            ]
+            molotov: [
+                has: false
+                kills: 436
+                level: 42
+                xp: 597
+            ]
+            stick_grenade: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+            quicklime: [
+                has: false
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+        ]
+        throwing_knives: [
+            throwing_knife: [
+                has: true
+                kills: 87
+                level: 9
+                xp: 12
+            ]
+        ]
+        utility: [
+            heartbeat_sensor: [
+                has: true
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+            insta-heal: [
+                has: true
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+            smoke-grenade: [
+                has: true
+                kills: 0
+                level: 0
+                xp: 0
+            ]
+        ]
+    ]
+]
+
+loadouts: [
+    nwm-1: [
+        m4a1: [
+            attachments: [
+                coyote_sight
+                monolithic_silencer
+                tactical_barrel
+                vertical_grip
+                tactical_stock
+            ]
+            skin: covert_digital
+        ]
+        m1911: [
+            attachments: [
+                z-point_sight
+                monolithic_silencer
+                combat_slide
+                duplex_conversion_magazine
+                special_foregrip
+                quickdraw
+            ]
+            skin: damascus_gold
+        ]
+        butterfly_knife: [
+            skin: default
+        ]
+        molotov: [
+            skin: covert_digital
+        ]
+    ]
+    ar: [
+        m16: [
+            attachments: [
+                coyote_sight
+                tactical_barrel
+                jungle_mag
+                vertical_grip
+                tactical_stock
+            ]
+            skin: covert_digital
+        ]
+        greatsword: [
+            skin: damascus_silver
+        ]
+        butterfly_knife: [
+            skin: default
+        ]
+        molotov: [
+            skin: covert_digital
+        ]
+    ]
+    lmg: [
+        m231: [
+            attachments: [
+                tactical_laser
+                tactical_silencer
+                100rnd_drum_mag
+                vertical_grip
+            ]
+            skin: default
+        ]
+        m1911: [
+            attachments: [
+                z-point_sight
+                monolithic_silencer
+                combat_slide
+                duplex_conversion_magazine
+                special_foregrip
+                quickdraw
+            ]
+            skin: damascus_gold
+        ]
+        butterfly_knife: [
+            skin: default
+        ]
+        flashbang: [
+            skin: covert_digital
+        ]
+    ]
+    rifle: [
+        m1_garand: [
+            attachments: [
+                m84_scope
+                monolithic_silencer
+                heavy_barrel
+                vertical_grip
+                fmj
+            ]
+            skin: covert_digital
+        ]
+        m1911: [
+            attachments: [
+                z-point_sight
+                monolithic_silencer
+                combat_slide
+                duplex_conversion_magazine
+                special_foregrip
+                quickdraw
+            ]
+            skin: damascus_gold
+        ]
+        butterfly_knife: [
+            skin: default
+        ]
+        insta-heal: [
+            skin: red_hyperspace
+        ]
+    ]
+    sniper: [
+        model_1873: [
+            attachments: [
+                iron_sights
+            ]
+            skin: default
+        ]
+        m1911: [
+            attachments: [
+                z-point_sight
+                monolithic_silencer
+                combat_slide
+                duplex_conversion_magazine
+                special_foregrip
+                quickdraw
+            ]
+            skin: damascus_gold
+        ]
+        butterfly_knife: [
+            skin: default
+        ]
+        throwing_knife: [
+            skin: covert_digital
+        ]
+    ]
+]
+
+skins: [
+    event: [
+        blizzard
+        grid
+        shattered_ice
+        '22_wrapped
+        eggmo
+        ectoplasm
+        sinister_smile
+        giftwrapped
+        phantasm
+        blue_grid
+    ]
+    universal: [
+        arctic_camo
+        neon_red_camo
+        toxic
+        blue
+        pink
+        neon_green_camo
+        urban_digital
+        desert_camo
+        red_hyperspace
+        woodland_digital
+        blue_hyperspace
+        urban_camo
+        desert_digital
+        visualizer
+        woodland_camo
+        engraved_titanium
+        cyber-r
+        quantum
+        covert_camo
+        green_hyperspace
+        covert_digital
+        orange_sparks
+        yellow
+        gls_galaxy
+    ]
+]
